@@ -1,6 +1,6 @@
 # Data Analytics Portfolio – O'ktam Zulfqorov
 
-Junior Data Analyst with experience in Python, SQL, and Power BI.
+Data Analyst with experience in Python, SQL, and Power BI.
 Below are selected projects demonstrating end-to-end data analysis,
 ETL pipelines, and business-focused dashboards.
 
